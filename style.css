@@ -1,0 +1,29 @@
+h1{
+  color: rgb(168,32,106);
+  font-family: Impact,Charcoal,sans-serif;
+
+}
+h3{
+    color: rgb(168,32,106);
+    font-family: Verdana,Geneva,sans-serif;
+}
+p{
+  color: rgb(73,21,0);
+  margin: auto;
+}
+body{
+  background-color: rgb(0,231,199);
+  text-align: center;
+}
+#mephoto{ height: 300px;
+width: 300px;}
+#logphoto{
+  height: 300px;
+ width: 300px;
+ margin-right: 100px;
+
+}
+#bre{
+  height: 300px;
+ width: 300px;
+}
